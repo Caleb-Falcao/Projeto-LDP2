@@ -1,0 +1,115 @@
+body {
+    background-image: url(../../Caleb_Alves_Falcão_sitecafe_p1/img/Fundo.jpg);
+    background-repeat: repeat;
+    font: 16px 'Verdana';
+    color: #FFEEBB;
+}
+
+/*.container{
+    width: 1000px;
+    margin: auto;
+}*/
+
+header {
+    display: block;
+    margin-bottom: 20px;
+}
+
+img {}
+
+.imgLogo {
+    border-bottom: 5px solid rgb(177, 162, 162);
+}
+
+.ender {
+    float: right;
+    line-height: 150%;
+    font-size: 16px;
+    text-align: right;
+}
+
+nav {
+
+    /*margin-top: 30px;*/
+    color: #FFEEBB;
+    display: block;
+    width: 20%;
+    float: left;
+}
+
+ol, ul {
+    line-height: 200%;
+
+}
+
+.a {
+    list-style-type: circle;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #FFEEBB;
+}
+
+a:visited {
+    color: #DDCC99;
+}
+
+
+.apres {
+    display: block;
+    width: 77%;
+    float: right;
+    text-align: center;
+}
+
+
+p {}
+
+/*Pagina-Historia*/
+.hist {
+    width: 77%;
+    float: right;
+    display: block;
+    text-align: justify;
+}
+
+.imgdir {
+    margin: 12px 12px 4px 0px;
+    float: right;
+    width: 7%;
+}
+
+.imgesq {
+    margin: 12px 0px 4px 12px;
+    float: left;
+    text-align: left;
+    width: 7%;
+}
+
+
+
+.fonte {
+    text-align: right;
+    font-style: italic;
+}
+
+.hist a {
+    float: right;
+}
+
+/*Pagina sache*/
+.saches {
+    width: 77%;
+    display: block;
+    text-align: left;
+    float: right;
+}
+
+/*Pagina Compras*/
+.tabinfo {
+    border: 1px solid black;
+}
